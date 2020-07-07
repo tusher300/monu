@@ -1,0 +1,247 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .main-menu ul li {
+        margin-left: 17px;
+    }
+    .hire-btn {
+        margin-left: 17px;
+    }
+    .hire-btn a {
+        padding: 9px 31px;
+    }
+    .slider-inner h1 {
+        font-size: 50px;
+    }
+    .btn {
+        padding: 11px 24px;
+    }
+    .single-slide {
+        background-position: center;
+    }
+    .about-img img {
+        width: 100%;
+    }
+    .team-info span {
+        font-size: 19px;
+    }
+    .team-info p {
+        font-size: 13px;
+    }
+    .news-title h4 a {
+        font-size: 15px;
+    }
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .logo a img {
+        margin-top: 30px;
+    }
+    .header-area {
+        padding: 20px 44px;
+        padding-bottom: 00px;
+    }
+    .about-img img {
+        width: 100%;
+    }
+    .slider-inner h1 {
+        font-size: 50px;
+    }
+    .single-slide {
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    .single-feature {
+        border-right: 0;
+        border-bottom: 1px solid #6a74fc;
+    }
+    .b-r{
+        border-bottom: 0;
+    }
+    .subscribe-input input {
+        width: 164px;
+        font-size: 13px;
+    }
+    .subscribe-input button {
+        font-size: 13px;
+        padding: 10px 38px;
+    }
+    .service-area {
+        padding-bottom: 75px;
+    }
+    .service-wrapper {
+        margin-bottom: 25px;
+    }
+    .team-info span {
+        font-size: 15px;
+    }
+    .team-info p {
+        font-size: 12px;
+    }
+    .team-icon a i {
+        font-size: 13px;
+        margin-right: 6px;
+    }
+    .blog-wrapper {
+        margin-bottom: 25px;
+    }
+    .footer-wrapper {
+        margin-bottom: 35px;
+    }
+    .footer-top-area {
+        padding-bottom: 40px;
+    }
+    .footer-wrapper.mb {
+        margin-bottom: 20px;
+    }
+    .feature-area {
+        margin-top: 0;
+        padding-top: 50px;
+    }
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+    .logo a img {
+        margin-top: 30px;
+    }
+    .header-area {
+        padding: 20px 44px;
+        padding-bottom: 00px;
+    }
+    .slider-inner h1 {
+        font-size: 30px;
+    }
+    .single-slide {
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    .single-feature {
+        border-right: 0;
+        border-bottom: 1px solid #6a74fc;
+    }
+    .b-r{
+        border-bottom: 0;
+    }
+    .about-img img {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .section-title h3 {
+        font-size: 23px;
+    }
+    .subscribe-input input {
+        width: 100%;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .subscribe-input button {
+        margin-left: 0;
+    }
+    .service-wrapper {
+        border: 1px solid #ddd;
+        margin-bottom: 20px;
+    }
+    .price-item {
+        width: 100%;
+    }
+    .price-wrapper {
+        margin-bottom: 20px;
+    }
+    .blog-wrapper {
+        margin-bottom: 30px;
+    }
+    .blog-area {
+        padding-bottom: 70px;
+    }
+    .testimonial-content {
+        padding: 59px 10px;
+    }
+    .footer-wrapper {
+        margin-top: 30px;
+    }
+    .footer-top-area {
+        padding-top: 45px;
+    }
+}
+ 
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .logo a img {
+        margin-top: 30px;
+    }
+    .header-area {
+        padding: 20px 44px;
+        padding-bottom: 00px;
+    }
+    .slider-inner h1 {
+        font-size: 50px;
+    }
+    .single-slide {
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    .single-feature {
+        border-right: 0;
+        border-bottom: 1px solid #6a74fc;
+    }
+    .b-r{
+        border-bottom: 0;
+    }
+    .about-img img {
+        width: 100%;
+        margin-top: 40px;
+    }
+    .subscribe-input input {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .subscribe-input button {
+        margin-left: 0;
+    }
+    .service-area {
+        padding-bottom: 90px;
+    }
+    .service-wrapper {
+        margin-bottom: 20px;
+    }
+    .price-wrapper .btn {
+        padding: 9px 22px;
+    }
+    .counter-wrapper .counter {
+        font-size: 21px;
+    }
+    .counter-wrapper p {
+        font-size: 12px;
+    }
+    .counter-wrapper i {
+        font-size: 23px;
+    }
+    .blog-wrapper {
+        margin-bottom: 30px;
+    }
+    .blog-area {
+        padding-bottom: 70px;
+    }
+    .footer-wrapper {
+        margin-top: 30px;
+    }
+    .footer-top-area {
+        padding-top: 45px;
+    }
+}
